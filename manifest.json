@@ -1,0 +1,38 @@
+{
+    "Actions": [
+        {
+            "UUID": "cz.qro.streamdeck.qrows",
+            "Icon": "icon",
+            "Name": "qrows",
+            "States": [
+                {
+                    "Image": "images/icon",
+                    "TitleAlignment": "middle",
+                    "FontSize": "10"
+                }
+            ]
+        }
+    ],
+    "Author": "Mike Miller",
+    "URL": "",
+    "CodePath": "plugin/index.html",
+    "Description": "Control qro.cz hardware",
+    "Name": "qrows",
+    "Icon": "pluginIcon",
+    "SDKVersion": 2,
+    "Version": "1.1.9",
+    "PropertyInspectorPath": "plugin/inspector.html",
+    "OS": [
+        {
+            "Platform": "mac", 
+            "MinimumVersion" : "10.11"
+        },
+        {
+            "Platform": "windows", 
+            "MinimumVersion" : "10"
+        }
+    ],
+    "Software": {
+        "MinimumVersion" : "4.1"
+    }
+}
