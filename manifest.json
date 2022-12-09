@@ -1,7 +1,7 @@
 {
     "Actions": [
         {
-            "UUID": "cz.qro.streamdeck.qrows",
+            "UUID": "cz.qro.qrows.action",
             "Icon": "icon",
             "Name": "qrows",
             "States": [
